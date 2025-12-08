@@ -1,0 +1,436 @@
+#EXTM3U
+# Start of Group: MBC Network
+#EXTGRP:MBC Network
+#EXTINF:-1 tvg-id="MBC Iraq",MBC Iraq
+#KODIPROP:inputstream=inputstream.adaptive
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+#EXTGRP:MBC Network
+#EXTINF:-1 tvg-id="MBC 1@HD",MBC 1
+#KODIPROP:inputstream=inputstream.adaptive
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTGRP:MBC Network
+#EXTINF:-1 tvg-id="MBC 3@HD",MBC 3
+#KODIPROP:inputstream=inputstream.adaptive
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTGRP:MBC Network
+#EXTINF:-1 tvg-id="MBC 4@HD",MBC 4
+#KODIPROP:inputstream=inputstream.adaptive
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTGRP:MBC Network
+#EXTINF:-1 tvg-id="MBC 5@HD",MBC 5
+#KODIPROP:inputstream=inputstream.adaptive
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTGRP:MBC Network
+#EXTINF:-1 tvg-id="MBC Drama@HD",MBC Drama
+#KODIPROP:inputstream=inputstream.adaptive
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTGRP:MBC Network
+#EXTINF:-1 tvg-id="MBC Masr@HD",MBC Masr
+#KODIPROP:inputstream=inputstream.adaptive
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTGRP:MBC Network
+#EXTINF:-1 tvg-id="MBC Bollywood",MBC Bollywood
+#KODIPROP:inputstream=inputstream.adaptive
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTGRP:MBC Network
+#EXTINF:-1 tvg-id="MBC Masr 2@HD",MBC Masr 2
+#KODIPROP:inputstream=inputstream.adaptive
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+#EXTGRP:MBC Network
+#EXTINF:-1 tvg-id="MBC Masr Drama",MBC Masr Drama
+#KODIPROP:inputstream=inputstream.adaptive
+https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
+#EXTGRP:MBC Network
+#EXTINF:-1 tvg-id="MBC+ Drama",MBC+ Drama
+#KODIPROP:inputstream=inputstream.adaptive
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+
+# Start of Group: Iraqi General
+#EXTGRP:Iraqi General
+#EXTINF:-1 tvg-id="Al Ayyam TV",Al Ayyam TV
+#KODIPROP:inputstream=inputstream.adaptive
+http://63b03f7689049.streamlock.net:1935/live/6/playlist.m3u8
+#EXTGRP:Iraqi General
+#EXTINF:-1 tvg-id="Al Eshraq TV",Al Eshraq TV
+#KODIPROP:inputstream=inputstream.adaptive
+http://63b03f7689049.streamlock.net:1935/live/19/playlist.m3u8
+#EXTGRP:Iraqi General
+#EXTINF:-1 tvg-id="Al Etejah TV",Al Etejah TV
+#KODIPROP:inputstream=inputstream.adaptive
+http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
+#EXTGRP:Iraqi General
+#EXTINF:-1 tvg-id="Al Iraqia",Al Iraqia
+#KODIPROP:inputstream=inputstream.adaptive
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+#EXTGRP:Iraqi General
+#EXTINF:-1 tvg-id="Al Janoub TV",Al Janoub TV
+#KODIPROP:inputstream=inputstream.adaptive
+http://63b03f7689049.streamlock.net:1935/live/18/playlist.m3u8
+#EXTGRP:Iraqi General
+#EXTINF:-1 tvg-id="Al Rafidain",Al Rafidain
+#KODIPROP:inputstream=inputstream.adaptive
+https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8
+#EXTGRP:Iraqi General
+#EXTINF:-1 tvg-id="Al Rasheed TV",Al Rasheed TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
+#EXTGRP:Iraqi General
+#EXTINF:-1 tvg-id="Al Shabab TV",Al Shabab TV
+#KODIPROP:inputstream=inputstream.adaptive
+http://149.100.11.244:8001/play/a07n/index.m3u8
+#EXTGRP:Iraqi General
+#EXTINF:-1 tvg-id="Al-Sharqiya",Al-Sharqiya
+#KODIPROP:inputstream=inputstream.adaptive
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
+#EXTGRP:Iraqi General
+#EXTINF:-1 tvg-id="Alawla TV",Alawla TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8
+#EXTGRP:Iraqi General
+#EXTINF:-1 tvg-id="Alqanat9 TV",Alqanat9 TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
+#EXTGRP:Iraqi General
+#EXTINF:-1 tvg-id="Dijlah TV",Dijlah TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTGRP:Iraqi General
+#EXTINF:-1 tvg-id="Iraq Future",Iraq Future
+#KODIPROP:inputstream=inputstream.adaptive
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8
+#EXTGRP:Iraqi General
+#EXTINF:-1 tvg-id="UTV",UTV
+#KODIPROP:inputstream=inputstream.adaptive
+https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
+#EXTGRP:Iraqi General
+#EXTINF:-1 tvg-id="Al Sharqiya Min Kabla",Al Sharqiya Min Kabla
+#KODIPROP:inputstream=inputstream.adaptive
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTGRP:Iraqi General
+#EXTINF:-1 tvg-id="Al Wousta TV",Al Wousta TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTGRP:Iraqi General
+#EXTINF:-1 tvg-id="Al Wousta",Al Wousta
+#KODIPROP:inputstream=inputstream.adaptive
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+
+# Start of Group: News & Current Affairs
+#EXTGRP:News & Current Affairs
+#EXTINF:-1 tvg-id="Al Iraqia News",Al Iraqia News
+#KODIPROP:inputstream=inputstream.adaptive
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTGRP:News & Current Affairs
+#EXTINF:-1 tvg-id="Al-Sharqiya News",Al-Sharqiya News
+#KODIPROP:inputstream=inputstream.adaptive
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+#EXTGRP:News & Current Affairs
+#EXTINF:-1 tvg-id="Asharq News",Asharq News
+#KODIPROP:inputstream=inputstream.adaptive
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+#EXTGRP:News & Current Affairs
+#EXTINF:-1 tvg-id="BBC Arabic",BBC Arabic
+#KODIPROP:inputstream=inputstream.adaptive
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_http.mpd
+#EXTGRP:News & Current Affairs
+#EXTINF:-1 tvg-id="Al Araby TV",Al Araby TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616
+#EXTGRP:News & Current Affairs
+#EXTINF:-1 tvg-id="Al Araby TV 2",Al Araby TV 2
+#KODIPROP:inputstream=inputstream.adaptive
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
+#EXTGRP:News & Current Affairs
+#EXTINF:-1 tvg-id="Al Jazeera",Al Jazeera
+#KODIPROP:inputstream=inputstream.adaptive
+https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
+#EXTGRP:News & Current Affairs
+#EXTINF:-1 tvg-id="Al Jazeera Mubasher",Al Jazeera Mubasher
+#KODIPROP:inputstream=inputstream.adaptive
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTGRP:News & Current Affairs
+#EXTINF:-1 tvg-id="Al Arabiya Al Hadath",Al Arabiya Al Hadath
+#KODIPROP:inputstream=inputstream.adaptive
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTGRP:News & Current Affairs
+#EXTINF:-1 tvg-id="Al Hadath TV",Al Hadath TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTGRP:News & Current Affairs
+#EXTINF:-1 tvg-id="Al Arabiya",Al Arabiya
+#KODIPROP:inputstream=inputstream.adaptive
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTGRP:News & Current Affairs
+#EXTINF:-1 tvg-id="CNBC Arabiya",CNBC Arabiya
+#KODIPROP:inputstream=inputstream.adaptive
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+#EXTGRP:News & Current Affairs
+#EXTINF:-1 tvg-id="Sky News Arabia",Sky News Arabia
+#KODIPROP:inputstream=inputstream.adaptive
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
+
+# Start of Group: Islamic & Religious
+
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Ch4Teen",Ch4Teen
+#KODIPROP:inputstream=inputstream.adaptive
+https://ch14.tv/live/ch4teenclip/playlist.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Al-Aimma TV",Al-Aimma TV
+#KODIPROP:inputstream=inputstream.adaptive
+http://stream.alaimma.tv/hls/alaimma/h3b1rd584cpq8p60okoj01rnfigdcnia.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Al-Jawadain TV",Al-Jawadain TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Al-Naeem TV",Al-Naeem TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://nl2.livekadeh.com/hls2/alnaeem.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Al Wilayah",Al Wilayah
+#KODIPROP:inputstream=inputstream.adaptive
+https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Al Quran",Al Quran
+#KODIPROP:inputstream=inputstream.adaptive
+https://ktvlive.online/stream/hls/ch1.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Bayyinat",Bayyinat
+#KODIPROP:inputstream=inputstream.adaptive
+https://nl2.livekadeh.com/hls2/Bayyinat_src.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Imam Hossain TV",Imam Hossain TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://live.imamhossaintv.com/live/ih4.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Imam Hossain AR",Imam Hossain AR
+#KODIPROP:inputstream=inputstream.adaptive
+https://live.imamhossaintv.com/live/ih2.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Alquran",Alquran
+#KODIPROP:inputstream=inputstream.adaptive
+https://ktvlive.online/stream/hls/ch1.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Althaqalayn TV",Althaqalayn TV
+#KODIPROP:inputstream=inputstream.adaptive
+http://63b03f7689049.streamlock.net:1935/live/16/playlist.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Anwar TV2",Anwar TV2
+#KODIPROP:inputstream=inputstream.adaptive
+http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Bayyinat TV",Bayyinat TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://nl2.livekadeh.com/hls2/Bayyinat.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Dua Channel",Dua Channel
+#KODIPROP:inputstream=inputstream.adaptive
+https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="EmanTv",EmanTv
+#KODIPROP:inputstream=inputstream.adaptive
+https://avr.host247.net/live/emantv/playlist.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Imam Hussein TV 1",Imam Hussein TV 1
+#KODIPROP:inputstream=inputstream.adaptive
+https://live.imamhossaintv.com/live/ih1.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Imam Hussein TV 2",Imam Hussein TV 2
+#KODIPROP:inputstream=inputstream.adaptive
+https://live.imamhossaintv.com/live/ih2.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Imam Hussein TV 2",Imam Hussein TV 2
+#KODIPROP:inputstream=inputstream.adaptive
+https://live.imamhossaintv.com/live/ih2.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Imam Hussein TV 3",Imam Hussein TV 3
+#KODIPROP:inputstream=inputstream.adaptive
+https://live.imamhossaintv.com/live/ih3.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Imam Hussein TV 4",Imam Hussein TV 4
+#KODIPROP:inputstream=inputstream.adaptive
+https://live.imamhossaintv.com/live/ih4.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Marjaeyat TV Arabic",Marjaeyat TV Arabic
+#KODIPROP:inputstream=inputstream.adaptive
+https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Shams TV",Shams TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://stream.shams.tv/hls/stream.m3u8
+#EXTGRP:Islamic & Religious
+#EXTINF:-1 tvg-id="Al Quran Al Kareem TV",Al Quran Al Kareem TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+
+# Start of Group: GCC (UAE/Qatar/KSA) General
+#EXTGRP:GCC (UAE/Qatar/KSA) General
+#EXTINF:-1 tvg-id="Al Fujairah",Al Fujairah
+#KODIPROP:inputstream=inputstream.adaptive
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+#EXTGRP:GCC (UAE/Qatar/KSA) General
+#EXTINF:-1 tvg-id="Qatar Television",Qatar Television
+#KODIPROP:inputstream=inputstream.adaptive
+https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
+#EXTGRP:GCC (UAE/Qatar/KSA) General
+#EXTINF:-1 tvg-id="Qatar Television 2",Qatar Television 2
+#KODIPROP:inputstream=inputstream.adaptive
+https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
+#EXTGRP:GCC (UAE/Qatar/KSA) General
+#EXTINF:-1 tvg-id="Saudi Thaqafiya TV",Saudi Thaqafiya TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
+#EXTGRP:GCC (UAE/Qatar/KSA) General
+#EXTINF:-1 tvg-id="SBC",SBC
+#KODIPROP:inputstream=inputstream.adaptive
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
+#EXTGRP:GCC (UAE/Qatar/KSA) General
+#EXTINF:-1 tvg-id="Abu Dhabi TV",Abu Dhabi TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_hls_nd/index.m3u8
+#EXTGRP:GCC (UAE/Qatar/KSA) General
+#EXTINF:-1 tvg-id="Al Dafrah TV",Al Dafrah TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/23cf2e00-28b0-b7b4-2569-ab7d19233fd7/index.m3u8
+#EXTGRP:GCC (UAE/Qatar/KSA) General
+#EXTINF:-1 tvg-id="Dubai One",Dubai One
+#KODIPROP:inputstream=inputstream.adaptive
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+#EXTGRP:GCC (UAE/Qatar/KSA) General
+#EXTINF:-1 tvg-id="Dubai TV",Dubai TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
+#EXTGRP:GCC (UAE/Qatar/KSA) General
+#EXTINF:-1 tvg-id="Dubai Zaman",Dubai Zaman
+#KODIPROP:inputstream=inputstream.adaptive
+https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
+#EXTGRP:GCC (UAE/Qatar/KSA) General
+#EXTINF:-1 tvg-id="Sama Dubai",Sama Dubai
+#KODIPROP:inputstream=inputstream.adaptive
+https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
+#EXTGRP:GCC (UAE/Qatar/KSA) General
+#EXTINF:-1 tvg-id="Sharjah 2",Sharjah 2
+#KODIPROP:inputstream=inputstream.adaptive
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTGRP:GCC (UAE/Qatar/KSA) General
+#EXTINF:-1 tvg-id="Sharjah TV",Sharjah TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTGRP:GCC (UAE/Qatar/KSA) General
+#EXTINF:-1 tvg-id="KSA Now",KSA Now
+#KODIPROP:inputstream=inputstream.adaptive
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
+
+# Start of Group: Kuwaiti TV (KTV)
+#EXTGRP:Kuwaiti TV (KTV)
+#EXTINF:-1 tvg-id="KTV 1",KTV 1
+#KODIPROP:inputstream=inputstream.adaptive
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
+#EXTGRP:Kuwaiti TV (KTV)
+#EXTINF:-1 tvg-id="KTV 2",KTV 2
+#KODIPROP:inputstream=inputstream.adaptive
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
+#EXTGRP:Kuwaiti TV (KTV)
+#EXTINF:-1 tvg-id="KTV Al Qurain",KTV Al Qurain
+#KODIPROP:inputstream=inputstream.adaptive
+https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
+#EXTGRP:Kuwaiti TV (KTV)
+#EXTINF:-1 tvg-id="KTV Arabe",KTV Arabe
+#KODIPROP:inputstream=inputstream.adaptive
+https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
+#EXTGRP:Kuwaiti TV (KTV)
+#EXTINF:-1 tvg-id="KTV Ethraa",KTV Ethraa
+#KODIPROP:inputstream=inputstream.adaptive
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
+
+# Start of Group: Documentary & Drama
+#EXTGRP:Documentary & Drama
+#EXTINF:-1 tvg-id="Bab Al Hara",Bab Al Hara
+#KODIPROP:inputstream=inputstream.adaptive
+https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
+#EXTGRP:Documentary & Drama
+#EXTINF:-1 tvg-id="Al Maraya",Al Maraya
+#KODIPROP:inputstream=inputstream.adaptive
+https://shls-live-enc.edgenextcdn.net/out/v1/a4a39d8e92e34b0780ca602270a59512/index.m3u8
+#EXTGRP:Documentary & Drama
+#EXTINF:-1 tvg-id="National Geographic Abu Dhabi@HD",National Geographic Abu Dhabi HD
+#KODIPROP:inputstream=inputstream.adaptive
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
+#EXTGRP:Documentary & Drama
+#EXTINF:-1 tvg-id="Asharq Documentary",Asharq Documentary
+#KODIPROP:inputstream=inputstream.adaptive
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTGRP:Documentary & Drama
+#EXTINF:-1 tvg-id="Asharq Discovery",Asharq Discovery
+#KODIPROP:inputstream=inputstream.adaptive
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTGRP:Documentary & Drama
+#EXTINF:-1 tvg-id="Mix Hollywood",Mix Hollywood
+#KODIPROP:inputstream=inputstream.adaptive
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+#EXTGRP:Documentary & Drama
+#EXTINF:-1 tvg-id="Al Jazeera Documentary",Al Jazeera Documentary
+#KODIPROP:inputstream=inputstream.adaptive
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+
+# Start of Group: Kids & Family
+
+#EXTGRP:Kids & Family
+#EXTINF:-1 tvg-id="CN Arabic",CN Arabic
+#KODIPROP:inputstream=inputstream.adaptive
+http://178.23.88.55/CN/tracks-v1a1/mono.m3u8
+#EXTGRP:Kids & Family
+#EXTINF:-1 tvg-id="Spacetoon Arabic",Spacetoon Arabic
+#KODIPROP:inputstream=inputstream.adaptive
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+#EXTGRP:Kids & Family
+#EXTINF:-1 tvg-id="Baraem",Baraem
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://games1.elahmad.xyz/tv769_www.elahmad.com_baraem1/index.m3u8?token=53bec9fff67b4c1b4ba27359fd21c05c7cb5899c-49312597ef5ccadcba2710debdc84032-1765211229-1765200429#EXTGRP:Kids & Family
+#EXTINF:-1 tvg-id="Jeem",Jeem
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://games1.elahmad.xyz/tv769_www.elahmad.com_jeem/index.m3u8?token=16b34bc6bafdb8f7f1d87cc4010cdeef7eb59d63-1b386e0d1a4d5b88bebab941e67bcd78-1765211365-1765200565
+#EXTGRP:Kids & Family
+#EXTINF:-1 tvg-id="Majid",Majid
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
+#EXTGRP:Kids & Family
+#EXTINF:-1 tvg-id="Hudhud TV",Hudhud TV
+#KODIPROP:inputstream=inputstream.adaptive
+http://63b03f7689049.streamlock.net:1935/live/17/playlist.m3u8
+#EXTGRP:Kids & Family
+#EXTINF:-1 tvg-id="Taha TV",Taha TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://media1.livaat.com/static/TAHA_TV/playlist.m3u8
+#EXTGRP:Kids & Family
+#EXTINF:-1 tvg-id="Atfal & Mawaheb TV",Atfal & Mawaheb TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+
+# Start of Group: Sports
+#EXTGRP:Sports
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 1",Abu Dhabi Sports 1
+#KODIPROP:inputstream=inputstream.adaptive
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
+#EXTGRP:Sports
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 2",Abu Dhabi Sports 2
+#KODIPROP:inputstream=inputstream.adaptive
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
+
+# Start of Group: Other Regional
+#EXTGRP:Other Regional
+#EXTINF:-1 tvg-id="Al Maaref",Al Maaref
+#KODIPROP:inputstream=inputstream.adaptive
+https://672a3a5c8e335.streamlock.net/AlMaaref/smil:almaareflive.smil/playlist.m3u8
+#EXTGRP:Other Regional
+#EXTINF:-1 tvg-id="Future TV",Future TV
+#KODIPROP:inputstream=inputstream.adaptive
+https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
+#EXTGRP:Other Regional
+#EXTINF:-1 tvg-id="Bahry",Bahry
+#KODIPROP:inputstream=inputstream.adaptive
+https://live.kwikmotion.com/bahry1live/bahry1.smil/playlist.m3u8
