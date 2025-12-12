@@ -394,7 +394,7 @@ https://games1.elahmad.xyz/tv769_www.elahmad.com_baraem1/index.m3u8?token=53bec9
 #EXTINF:-1 tvg-id="Jeem",Jeem
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://games1.elahmad.xyz/tv769_www.elahmad.com_jeem/index.m3u8?token=16b34bc6bafdb8f7f1d87cc4010cdeef7eb59d63-1b386e0d1a4d5b88bebab941e67bcd78-1765211365-1765200565
+http://freeiptv.ottc.xyz:80/live/859074833405/186462107050/1640.ts
 #EXTGRP:Kids & Family
 #EXTINF:-1 tvg-id="Majid",Majid
 #KODIPROP:inputstream=inputstream.adaptive
@@ -448,6 +448,7 @@ https://live.kwikmotion.com/bahry1live/bahry1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="My Channel" group-title="YouTube",My Channel
 #KODIPROP:inputstream=inputstream.adaptive
 plugin://plugin.video.youtube/?action=play_video&videoid=J2vHraB9_7A
+
 
 
 
