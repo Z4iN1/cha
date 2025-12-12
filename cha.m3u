@@ -10,7 +10,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39c
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTGRP:MBC Network
 #EXTINF:-1 tvg-id="MBC 2@HD",MBC 2
-#KODIPROP:inputstream=inputstream.adaptive
 http://freeiptv.ottc.xyz:80/live/859074833405/186462107050/1801.ts
 #EXTGRP:MBC Network
 #EXTINF:-1 tvg-id="MBC 3@HD",MBC 3
@@ -450,6 +449,7 @@ https://live.kwikmotion.com/bahry1live/bahry1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="My Channel" group-title="YouTube",My Channel
 #KODIPROP:inputstream=inputstream.adaptive
 plugin://plugin.video.youtube/?action=play_video&videoid=J2vHraB9_7A
+
 
 
 
