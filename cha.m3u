@@ -388,7 +388,6 @@ http://freeiptv.ottc.xyz:80/live/859074833405/186462107050/1867.ts
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTGRP:Kids & Family
 #EXTINF:-1 tvg-id="Baraem",Baraem
-#KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://freeiptv.ottc.xyz:80/live/859074833405/186462107050/1638.ts
 #EXTGRP:Kids & Family
@@ -448,6 +447,7 @@ https://live.kwikmotion.com/bahry1live/bahry1.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="My Channel" group-title="YouTube",My Channel
 #KODIPROP:inputstream=inputstream.adaptive
 plugin://plugin.video.youtube/?action=play_video&videoid=J2vHraB9_7A
+
 
 
 
